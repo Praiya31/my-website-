@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("MiPancake.zip");
+        src: url("MiPancakeThin.ttf");
       }
       @font-face{
         font-family: "MyFont2";
