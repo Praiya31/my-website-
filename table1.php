@@ -37,7 +37,7 @@
       <tr>
         <td>5</td>
         <td>ฮเยริ</td>
-        <td><img src="https://static.trueplookpanya.com/tppy/member/m_545000_547500/545920/cms/images/hyeri03.jpg"></td>
+        <td><img src="https://static.trueplookpanya.com/tppy/member/m_545000_547500/545920/cms/images/hyeri03.jpg"width="45px"></td>
         <td><a href="https://instagram.com/hyeri_0609?utm_medium=copy_link">Facebook</a></td>
       </tr>
     </table>
